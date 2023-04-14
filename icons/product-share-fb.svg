@@ -1,0 +1,19 @@
+<svg id="Группа_1" data-name="Группа 1" xmlns="http://www.w3.org/2000/svg" width="51" height="51" viewBox="0 0 51 51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #b8a9a4;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #b8a9a4;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle class="cls-1" cx="25.5" cy="25.5" r="24.5"/>
+  <path class="cls-2" d="M231,892.94h2.357v-2.113a5.279,5.279,0,0,1,.759-3.254,4.326,4.326,0,0,1,3.659-1.582,16.02,16.02,0,0,1,4.226.391l-0.59,3.218a8.6,8.6,0,0,0-1.9-.261c-0.916,0-1.737.3-1.737,1.146v2.455h3.758l-0.262,3.142h-3.5V907h-4.418V896.082H231V892.94Z" transform="translate(-211 -871)"/>
+</svg>
