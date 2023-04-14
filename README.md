@@ -1,1 +1,1 @@
-# ---LOOKSHOP-1
+# LOOKSHOP-1
